@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @AparnaSai1 and I am new here. Here are a couple of things I have done with code.  
-- Languages: Python, R, JavaScript (React.js) 
+- Languages: Python, JavaScript (React.js), Swift  
